@@ -1,0 +1,13 @@
+title: 'GPT订阅 2026：ChatGPT 订阅四种方式、国内哪种能付、订阅失败怎么办'
+description: 'GPT订阅 2026：官网绑卡、苹果内购、Google Play、代充四种方式对比，国内卡为什么被拒、付了钱还是免费版怎么办；瑶瑶ai训练师商城 Plus ¥129（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/dingyue"
